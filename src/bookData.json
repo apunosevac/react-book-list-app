@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "title": "1984",
+        "author": "George Orwell",
+        "publicationDate": "June 8, 1949",
+        "genre": "Dystopian novel",
+        "description": "In George Orwell's 1984, Winston Smith wrestles with oppression in Oceania, a place where the Party scrutinizes human actions with ever-watchful Big Brother. Defying a ban on individuality, Winston dares to express his thoughts in a diary and pursues a relationship with Julia."
+    },
+    {
+        "id": 2,
+        "title": "Fahrenheit 451",
+        "author": "Ray Bradbury",
+        "publicationDate": "October 19, 1953",
+        "genre": "Dystopian novel",
+        "description": "Fahrenheit 451 tells the story of Guy Montag and his transformation from a book-burning fireman to a book-reading rebel. Montag lives in an oppressive society that attempts to eliminate all sources of complexity, contradiction, and confusion to ensure uncomplicated happiness for all its citizens."
+    },
+    {
+        "id": 3,
+        "title": "Crime and Punishment",
+        "author": "Fyodor Dostoevsky",
+        "publicationDate": "April 17, 1866",
+        "genre": "Psychological novel",
+        "description": "Crime and Punishment follows the mental anguish and moral dilemmas of Rodion Raskolnikov, an impoverished ex-student in Saint Petersburg who plans to kill an unscrupulous pawnbroker, an old woman who stores money and valuable objects in her flat."
+    },
+    {
+        "id": 4,
+        "title": "Animal Farm",
+        "author": "George Orwell",
+        "publicationDate": "August 17, 1945",
+        "genre": "Political fable",
+        "description": "Animal Farm tells the story of a group of farm animals who rebel against their human farmer, hoping to create a society where the animals can be equal, free, and happy. Ultimately, the rebellion is betrayed, and under the dictatorship of a pig named Napoleon, the farm ends up in a state as bad as it was before."
+    }
+]

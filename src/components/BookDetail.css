@@ -1,0 +1,13 @@
+.detailTitle{
+    color: white;
+    margin: 15px;
+}
+
+.detailText{
+    margin: 20px;
+    padding: 10px;
+    font-size: 16pt;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+}

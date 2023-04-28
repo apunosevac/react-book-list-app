@@ -1,0 +1,12 @@
+.btnBack {
+    background-color: #e90a0a;
+    /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    margin: 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 32px;
+}

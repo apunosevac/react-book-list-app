@@ -1,0 +1,14 @@
+.title {
+    padding: 1rem;
+    margin: 2rem auto;
+    width: 50rem;
+    max-width: 95%;
+}
+
+.search {
+    margin-left: 30%;
+    width: 36%;
+    border: 3px solid rgb(18, 19, 18);
+    padding: 10px;
+    font-size: 16pt;
+}
